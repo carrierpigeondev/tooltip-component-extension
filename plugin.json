@@ -1,0 +1,14 @@
+{
+  "id": "tooltip_component_extension",
+  "weight": 1,
+  "supportedversions": [
+	  2026002
+  ],
+  "info": {
+    "name": "Tooltip Component Extension",
+    "version": "1.0",
+    "description": "Allows the use of the MutableComponent type from RedWirePlatinum's 'Mutable Components' plugin with new procedures that fit alongside NerdyPuzzle's 'Item Tooltips' plugin.",
+    "author": "MrCreeps",
+    "credits": "This plugin depends on NerdyPuzzle's 'Item Tooltips' and RedWirePlatinum's 'Mutable Components' to work properly."
+  }
+}
